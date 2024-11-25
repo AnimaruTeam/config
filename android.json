@@ -1,8 +1,7 @@
 {
   "apiBaseUrl": "https://api.animaru.su/",
-  "authUrl": "https://auth.animaru.su/",
   "appUrl": "https://animaru.app/",
-  "staticUrl": "https://static.animaru.su/",
+  "storageDomain": "huiso.su",
   "networks": {
     "telegram": "https://t.me/animaru_app",
     "discord": "https://discord.gg/haP7bBnMHK",
