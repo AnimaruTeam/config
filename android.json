@@ -1,5 +1,5 @@
 {
-  "apiBaseUrl": "https://animaru.one/",
+  "apiBaseDomain": "animaru.one",
   "appUrl": "https://animaru.app/",
   "storage": {
     "yuki": "huiso.su"
