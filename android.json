@@ -1,7 +1,6 @@
 {
   "apiBaseDomain": "animaru.one",
   "appUrl": "https://animaru.app/",
-  "storageDomain": "animaru.media",
   "networks": {
     "telegram": "https://t.me/animaru_app",
     "discord": "https://discord.gg/animaru",
